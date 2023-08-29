@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "vanilla-gallery",
+  "version": "1.0.0",
+  "description": "Welcome to this vanilla project. You will find in it a compilation of images from my favorite countries. I hope this gallery motivates you to visit these countries! > Made with 💜 by Sebastián Prieto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup --watch --config",
+    "dev": "vite"
+  },
+  "author": "Sebastián Prieto",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^3.28.1",
+    "vite": "^4.4.9"
+  }
+}
